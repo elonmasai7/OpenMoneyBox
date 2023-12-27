@@ -1,4 +1,4 @@
-# Assets Reference in Catat Uang App
+# Assets Reference in OPEN MONEY BOX App
 
 * Login Illustration Image: https://www.freepik.com/free-vector/account-concept-illustration_5464649.htm <br />
   [Local Path](/app/src/main/res/drawable/ic_account_amico.xml)<br />
