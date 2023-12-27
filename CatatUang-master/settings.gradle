@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' } //pie charts
     }
 }
-rootProject.name = "Catat Uang"
+rootProject.name = "Masai's savings"
 include ':app'
